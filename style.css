@@ -93,8 +93,8 @@ body {
   height: 7px;
   width: 100%;
   background-color: orangered;
-  position: relative;
-  top: 10px;
+  position: absolute;
+  bottom: 0;
   border-bottom-left-radius: 17px;
-  border-bottom-right-radius: 17px;
+  border-bottom-right-radius: 17px; 
 }
